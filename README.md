@@ -47,7 +47,7 @@ Kubulambula:
     Twitter: @kubulambula
     Instagram: @kubulambula
     GitHub: kubulambula
-    Email: jansta.ja@gmail.com 
+    Email: kubulambula@gmail.com 
 ```
 
 
@@ -74,5 +74,5 @@ Kubulambula:
 <img src="img/emptyness.png" width=50px />
 <a href="https://www.github.com/kubulambula"><img src="img/github.svg" title="kubulambula" width=70px /></a>
 <img src="img/emptyness.png" width=50px />
-<a href="mailto:jansta.ja%40gmail.com"><img src="img/gmail.svg" title="jansta.ja@gmail.com" width=70px /></a>
+<a href="mailto:kubulambula%40gmail.com"><img src="img/gmail.svg" title="kubulambula@gmail.com" width=70px /></a>
 <br>
