@@ -63,9 +63,14 @@ Kubulambula:
 
 <h2>Quick connections</h2>
 
-<br>
+<!---
+  The spacing is super dumd, but I could not figure it out any other way
+--->
 <a href="https://www.instagram.com/kubulambula"><img src="img/instagram.svg" title="@kubulambula" width=70px /></a>
+<img src="img/emptyness.png" width=50px />
 <a href="https://www.twitter.com/kubulambula"><img src="img/twitter.svg" title="@kubulambula" width=70px /></a>
+<img src="img/emptyness.png" width=50px />
 <a href="https://www.github.com/kubulambula"><img src="img/github.svg" title="kubulambula" width=70px /></a>
+<img src="img/emptyness.png" width=50px />
 <a href="mailto:jansta.ja%40gmail.com"><img src="img/gmail.svg" title="jansta.ja@gmail.com" width=70px /></a>
 <br>
