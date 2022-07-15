@@ -24,10 +24,12 @@
   Gotta walk those 500 miles!
 --->
 <a href="https://www.youtube.com/watch?v=tbNlMtqrYS0">
-  <img align="right" src="img/walk.gif" width=260px alt="CollisionPolygonShape" />
+  <img align="right" src="img/walk.gif" width=280px alt="CollisionPolygonShape" />
 </a>
 
 ```yaml
+kubulambula.yaml
+
 Kubulambula: 
   Name: Jakub Janšta
   Job: Student
