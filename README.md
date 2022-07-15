@@ -8,7 +8,7 @@
   You spin me right 'round, baby, right 'round
   Like a record, baby, right 'round, 'round, 'round
 --->
-<h2>Hi, I'm Jakub! <a href="https://www.youtube.com/watch?v=PGNiXGX2nLU"><img src="icons/spin.gif" width=64px></a></h2>
+<h2>Hi, I'm Jakub! <a href="https://www.youtube.com/watch?v=PGNiXGX2nLU"><img src="img/spin.gif" width=64px></a></h2>
 
 
 
@@ -24,7 +24,7 @@
   Gotta walk those 500 miles!
 --->
 <a href="https://www.youtube.com/watch?v=tbNlMtqrYS0">
-  <img align="right" src="icons/walk.gif" width=260px alt="CollisionPolygonShape" />
+  <img align="right" src="img/walk.gif" width=260px alt="CollisionPolygonShape" />
 </a>
 
 ```yaml
@@ -64,8 +64,8 @@ Kubulambula:
 <h2>Quick connections</h2>
 
 <br>
-<a href="https://www.instagram.com/kubulambula"><img src="icons/instagram.svg" title="@kubulambula" width=70px /></a>
-<a href="https://www.twitter.com/kubulambula"><img src="icons/twitter.svg" title="@kubulambula" width=70px /></a>
-<a href="https://www.github.com/kubulambula"><img src="icons/github.svg" title="kubulambula" width=70px /></a>
-<a href="mailto:jansta.ja%40gmail.com"><img src="icons/gmail.svg" title="jansta.ja@gmail.com" width=70px /></a>
+<a href="https://www.instagram.com/kubulambula"><img src="img/instagram.svg" title="@kubulambula" width=70px /></a>
+<a href="https://www.twitter.com/kubulambula"><img src="img/twitter.svg" title="@kubulambula" width=70px /></a>
+<a href="https://www.github.com/kubulambula"><img src="img/github.svg" title="kubulambula" width=70px /></a>
+<a href="mailto:jansta.ja%40gmail.com"><img src="img/gmail.svg" title="jansta.ja@gmail.com" width=70px /></a>
 <br>
