@@ -20,12 +20,6 @@
 
 <h2>Something about me</h2>
 
-<!---
-  Gotta walk those 500 miles!
---->
-<a href="https://www.youtube.com/watch?v=tbNlMtqrYS0">
-  <img align="right" src="img/walk.gif" width=280px alt="CollisionPolygonShape" />
-</a>
 
 ```yaml
 kubulambula.yaml
