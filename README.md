@@ -47,7 +47,10 @@ Kubulambula:
 
 
 <h2>Pinned Projects<h2>
-  
+
+<a href="https://github.com/Kubulambula/Godot-GDShell">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubulambula&repo=godot-gdshell&border_color=7f7f7f&bg_color=00000000&title_color=56d364&icon_color=7ee787&text_color=7f7f7f" alt="GDShell" />
+</a>
 <a href="https://github.com/Kubulambula/Godot-CollisionPolygonShape">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubulambula&repo=godot-collisionpolygonshape&border_color=7f7f7f&bg_color=00000000&title_color=56d364&icon_color=7ee787&text_color=7f7f7f" alt="CollisionPolygonShape" />
 </a>
