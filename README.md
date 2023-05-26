@@ -22,11 +22,11 @@
 
 
 ```yaml
-kubulambula.yaml
+# kubulambula.yaml
 
 Kubulambula: 
   Name: Jakub Janšta
-  Job: Student
+  Job: Student # VUT FIT
   Languages:
     - en
     - cs
@@ -34,7 +34,9 @@ Kubulambula:
     - Godot
     - Python
     - Java
-    - C#
+    - C
+    - C++
+    - 'C#'
     - Git
     - SQL
   Connections:
