@@ -57,6 +57,9 @@ Kubulambula:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubulambula&repo=godot-collisionpolygonshape&border_color=7f7f7f&bg_color=00000000&title_color=56d364&icon_color=7ee787&text_color=7f7f7f" alt="CollisionPolygonShape" />
 </a>
 <a href="https://github.com/Kubulambula/Untitled-Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubulambula&repo=Card-Declined-gmtk2023&border_color=7f7f7f&bg_color=00000000&title_color=56d364&icon_color=7ee787&text_color=7f7f7f" alt="Card Declined!" />
+</a>
+<a href="https://github.com/Kubulambula/Untitled-Project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kubulambula&repo=untitled-project&border_color=7f7f7f&bg_color=00000000&title_color=56d364&icon_color=7ee787&text_color=7f7f7f" alt="Untitled-Project" />
 </a>
 <br><br>
@@ -65,7 +68,7 @@ Kubulambula:
 <h2>Quick connections</h2>
 
 <!---
-  The spacing is super dumd, but I could not figure it out any other way
+  The spacing is super dumb, but I could not figure it out any other way
 --->
 <a href="https://www.instagram.com/kubulambula"><img src="img/instagram.svg" title="@kubulambula" width=70px /></a>
 <img src="img/emptyness.png" width=50px />
