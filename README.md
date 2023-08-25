@@ -13,7 +13,7 @@
 
 
 <a href="https://github.com/kubulambula">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kubulambula&custom_title=Kubulambula's%20Stats&count_private=true&include_all_commits=true&show_icons=true&border_color=7f7f7f&bg_color=00000000&title_color=56d364&icon_color=7ee787&text_color=7f7f7f" alt="Kubulambula's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kubulambula&custom_title=Kubulambula's%20Github%20Stats&count_private=true&include_all_commits=true&show_icons=true&border_color=7f7f7f&bg_color=00000000&title_color=56d364&icon_color=7ee787&text_color=7f7f7f" alt="Kubulambula's GitHub stats" />
 </a>
 
 
